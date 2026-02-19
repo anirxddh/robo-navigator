@@ -233,9 +233,9 @@ Feel free to use it, build on it, learn from it. If it helps you win your own co
 
 ## 🏆 A Small Journal
 
-The competition was part of **Aghaaz '24**, our college's tech fest in October 2024. When we signed up, we honestly weren't sure how polished the final robot would be — we had the hardware, we had the idea, and we had a deadline. Ended up naming the team "Team CoffeeLake", this was Yash's idea of naming up. I was pretty curious why he named it and then he told me that this was the name of the Intel's one of the most successful CPU architecture.
+The competition was part of **Aghaaz '24**, our college's tech fest in October 2024. When we signed up, we honestly weren't sure how polished the final robot would be; we had the hardware, we had the idea, and we had a deadline. Ended up naming the team "Team CoffeeLake", this was Yash's idea of naming up. I was pretty curious why he named it and then he told me that this was the name of the Intel's one of the most successful CPU architecture.
 
-The first few hours were mostly wiring chaos. The motor driver got its input pins mixed up more times than I'd like to admit. Getting the servo and the ultrasonic sensor to cooperate — where the servo is at the right angle _before_ the sensor fires — took embarrassingly long to get right. 
+The first few hours were mostly wiring chaos. The motor driver got its input pins mixed up more times than I'd like to admit. Getting the servo and the ultrasonic sensor to cooperate, where the servo is at the right angle _before_ the sensor fires — took embarrassingly long to get right. 
 
 Savyasachi, came in clutch as he has been tinkering with electronics since his teenage times to make sily projects. He fixed what I had messed up with 11 minutes straightup by just randomly changing some pins and checking the pin diagram to and fro.
 
