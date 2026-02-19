@@ -233,21 +233,29 @@ Feel free to use it, build on it, learn from it. If it helps you win your own co
 
 ## 🏆 A Small Journal
 
-The competition was part of **Aghaaz '24**, our college's tech fest in October 2024. When we signed up, we honestly weren't sure how polished the final robot would be — we had the hardware, we had the idea, and we had a deadline.
+The competition was part of **Aghaaz '24**, our college's tech fest in October 2024. When we signed up, we honestly weren't sure how polished the final robot would be — we had the hardware, we had the idea, and we had a deadline. Ended up naming the team "Team CoffeeLake", this was Yash's idea of naming up. I was pretty curious why he named it and then he told me that this was the name of the Intel's one of the most successful CPU architecture.
 
-The first few hours were mostly wiring chaos. The motor driver got its input pins mixed up more times than I'd like to admit. Getting the servo and the ultrasonic sensor to cooperate — where the servo is at the right angle _before_ the sensor fires — took embarrassingly long to get right. The delays that look almost too simple in the final code were actually the result of a lot of trial and error.
+The first few hours were mostly wiring chaos. The motor driver got its input pins mixed up more times than I'd like to admit. Getting the servo and the ultrasonic sensor to cooperate — where the servo is at the right angle _before_ the sensor fires — took embarrassingly long to get right. 
 
-The turning logic went through a few iterations too. We briefly considered scanning both left and right before deciding, but the added complexity wasn't worth it. The "check right, fallback to left" approach was cleaner and faster, and under competition conditions, that matters.
+Savyasachi, came in clutch as he has been tinkering with electronics since his teenage times to make sily projects. He fixed what I had messed up with 11 minutes straightup by just randomly changing some pins and checking the pin diagram to and fro.
 
-When the robot ran its first clean course without bumping into anything, it was genuinely one of those moments. And when we won first place, it felt like validation for every 2 AM debugging session.
+The delays that look almost too simple in the final code were actually the result of a lot of trial and error.
 
-This code is exactly what ran on competition day — no cleanup, no refactoring, no prettying things up after the fact. The commented-out functions, the exact delay values, the serial print statements. All of it.
+The turning logic went through a few iterations too. Yash, briefly considered scanning both left and right before deciding, but the added complexity wasn't worth it. The "check right, fallback to left" approach was cleaner and faster, and under competition conditions, that matters.
 
-If you're reading this and building something similar — good luck. It's worth it.
+We decided to keep the serial monitor message as "Coffee detected, executing avoidance maneuvers." considering the name of the team.
+
+When the robot ran its first clean course without bumping into anything, it was genuinely one of those moments. The first day was over before it got event started, thankfully, every team got a 2nd day to finally showcase what they were doing after fixing their mistakes. Me and Yash decided to change the codes last minutes and then endeded up winning.
+
+When we won first place, it felt like validation for every 2 AM debugging session for 2 days straightup. I am so grateful to Yash and Savyasachi for teaching me so many things.
+
+This code is exactly what ran on competition day — no cleanup, no refactoring, no prettying things up after the factual win. The commented-out functions, the exact delay values, the serial print statements. All of it. 
+
+If you're reading this and building something similar — good luck. It's worth it. Electronics is fun and always will be.
 
 ---
 
-### Developer Contact
+### Contact
 
 - **GitHub**: [@anirxddh](https://github.com/anirxddh)
 - **LinkedIn**: [Aniruddha Dey](https://www.linkedin.com/in/anirxddh)
