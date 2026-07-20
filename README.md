@@ -255,12 +255,4 @@ If you're reading this and building something similar — good luck. It's worth 
 
 ---
 
-### Contact
-
-- **GitHub**: [@anirxddh](https://github.com/anirxddh)
-- **LinkedIn**: [Aniruddha Dey](https://www.linkedin.com/in/anirxddh)
-- **X**: [@anirxddh](https://x.com/anirxddh)
-
----
-
 ### Made with 🔧 and a lot of late nights by Team Coffee Lake.
